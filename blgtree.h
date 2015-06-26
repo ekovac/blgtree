@@ -31,8 +31,6 @@
 #ifndef BLGTREE_H
 #define BLGTREE_H
 
-#define BLGTREE_ERROR_INSERT_IDENTICAL (-2)
-
 typedef struct Bounds2D bounds_t;
 struct Bounds2D {
 	double xMin;
